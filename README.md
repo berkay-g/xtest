@@ -1,3 +1,3 @@
 https://berkay-g.github.io/xtest
-> [!CAUTION]
+> [!WARNING]  
 > DO NOT PRESS ENTER
